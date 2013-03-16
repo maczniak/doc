@@ -1,5 +1,6 @@
 ---
 layout: bootstrap
+title: My Title
 comment: YAML Front Matter
 ---
 # Lessons Learned
