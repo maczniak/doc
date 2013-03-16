@@ -1,3 +1,6 @@
+---
+comment: YAML Front Matter
+---
 # Lessons Learned
 
 Unlike the SocialCalc project's well-defined specification and team development process, EtherCalc was a solo experiment from mid-2011 to late-2012 and served as a proving ground for assessing Node.js' readiness for production use.
