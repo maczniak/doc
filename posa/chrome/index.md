@@ -10,8 +10,8 @@ comment: YAML Front Matter
 많은 사람들은 **브라우저 전쟁이 재현되지 않을까** 하며 크롬 발표를 놀랍게 받아들였다.
 구글이 정말 더 잘 할 수 있을까?
 
-> "크롬이 너무 좋아서 근본적으로 내 생각을 바꿀 수밖에 없었다..." - 에릭 슈미트,
-> 구글 크롬 개발 계획을 [초기에는 주저했던][reluctance] 경험
+> "크롬이 너무 좋아서 근본적으로 내 생각을 바꿀 수밖에 없었다..."
+> <small>에릭 슈미트, 구글 크롬 개발 계획을 [초기에는 주저했던][reluctance] 경험</small>
 
 [reluctance]: http://blogs.wsj.com/digits/2009/07/09/sun-valley-schmidt-didnt-want-to-build-chrome-initially-he-says/
 
@@ -29,7 +29,7 @@ comment: YAML Front Matter
 
 [comicbook]: http://www.google.com/googlebooks/chrome/
 
-<p style="clear: both;></p>
+<div style="clear: both;></div>
 
 * <strong style="color: green;">속도:</strong> **가장 빠른** 브라우저를 만든다는 목표
 * <strong style="color: green;">보안:</strong> 사용자에게 **가장 안전한** 환경을 제공한다
