@@ -3,7 +3,7 @@ layout: bootstrap
 title: 구글 크롬의 고성능 네트워킹
 comment: YAML Front Matter
 ---
-# 구글 크롬의 역사와 핵심 원칙2
+# 구글 크롬의 역사와 핵심 원칙
 
 구글 크롬(Chrome)은 2008년 하반기에 윈도우즈 플랫폼 베타 버전 형태로 처음 발표했다.
 구글이 개발한 크롬은 자유로운 BSD 라이선스의 크로미엄(Chromium) 프로젝트로도 나와있다.
@@ -29,7 +29,7 @@ comment: YAML Front Matter
 
 [comicbook]: http://www.google.com/googlebooks/chrome/
 
-* <strong style="color: green;">속도:</strong> **가장 빠른** 브라우저를 만든다는 목표
-* <strong style="color: green;">보안:</strong> 사용자에게 **가장 안전한** 환경을 제공한다
-* <strong style="color: green;">안정성:</strong> **탄력적이고 안정적인** 웹어플리케이션 플랫폼을 제공한다
-* <strong style="color: green;">단순성:</strong> 세련된 기술을 **단순한 사용자 경험**으로 포장
+* <span style="font-weight: bold; color: green;">속도:</span> **가장 빠른** 브라우저를 만든다는 목표
+* <span style="font-weight: bold; color: green;">보안:</span> 사용자에게 **가장 안전한** 환경을 제공한다
+* <span style="font-weight: bold; color: green;">안정성:</span> **탄력적이고 안정적인** 웹어플리케이션 플랫폼을 제공한다
+* <span style="font-weight: bold; color: green;">단순성:</span> 세련된 기술을 **단순한 사용자 경험**으로 포장
