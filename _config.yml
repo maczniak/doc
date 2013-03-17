@@ -3,3 +3,4 @@ source: .
 destination: ./root
 lsi: false
 pygments: true
+markdown: kramdown
