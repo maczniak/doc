@@ -29,7 +29,9 @@ comment: YAML Front Matter
 
 [comicbook]: http://www.google.com/googlebooks/chrome/
 
-* <span style="font-weight: bold; color: green;">속도:</span> **가장 빠른** 브라우저를 만든다는 목표
-* <span style="font-weight: bold; color: green;">보안:</span> 사용자에게 **가장 안전한** 환경을 제공한다
-* <span style="font-weight: bold; color: green;">안정성:</span> **탄력적이고 안정적인** 웹어플리케이션 플랫폼을 제공한다
-* <span style="font-weight: bold; color: green;">단순성:</span> 세련된 기술을 **단순한 사용자 경험**으로 포장
+<p style="clear: both;></p>
+
+* <strong style="color: green;">속도:</strong> **가장 빠른** 브라우저를 만든다는 목표
+* <strong style="color: green;">보안:</strong> 사용자에게 **가장 안전한** 환경을 제공한다
+* <strong style="color: green;">안정성:</strong> **탄력적이고 안정적인** 웹어플리케이션 플랫폼을 제공한다
+* <strong style="color: green;">단순성:</strong> 세련된 기술을 **단순한 사용자 경험**으로 포장
