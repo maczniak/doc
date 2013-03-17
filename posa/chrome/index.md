@@ -29,7 +29,7 @@ comment: YAML Front Matter
 
 [comicbook]: http://www.google.com/googlebooks/chrome/
 
-<div style="clear: both;></div>
+<div style="clear: both;"></div>
 
 * <strong style="color: green;">속도:</strong> **가장 빠른** 브라우저를 만든다는 목표
 * <strong style="color: green;">보안:</strong> 사용자에게 **가장 안전한** 환경을 제공한다
