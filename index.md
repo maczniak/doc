@@ -12,4 +12,5 @@ title: 문서 모음
 ## 번역한 글
 
 * [트위터 부트스트랩 홈페이지](http://maczniak.github.com/bootstrap/)
+* 《[오픈소스 어플리케이션 아키텍처](./aosa/)》 (The Architecture of Open Source Applications)
 * 《[오픈소스 어플리케이션 성능](./posa/)》 (The Performance of Open Source Applications)
